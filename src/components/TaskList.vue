@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto my-10 lg:px-8">
+    <div class="container mx-auto my-10 px-8">
         <div>
             <div class="mt-6 flow-root">
                 <ul role="list" class="-my-5 divide-y divide-gray-200">

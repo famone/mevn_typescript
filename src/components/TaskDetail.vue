@@ -55,8 +55,8 @@ export default defineComponent({
         }
     },
     methods:{
-        async loadTask(){
-            const res = await getTask(this.$route.params.id)
+        async loadTask(id: string){
+            const res = await getTask(id)
             this.currentTask = res.data
         },
         async handleUpdate(){
