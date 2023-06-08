@@ -1,4 +1,10 @@
-# mevn_ts_app
+# Vue 3 + Mongo + Node + Express
+Simple task manager via fullstack app)
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
 
 ## Project setup
 ```
